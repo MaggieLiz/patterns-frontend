@@ -1,0 +1,12 @@
+{
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#C9AE5D",
+    "titleBar.activeBackground": "#C9AE5D",
+    "titleBar.inactiveBackground": "#C9AE5D",
+    "statusBar.foreground": "#000",
+    "titleBar.inactiveForeground": "#000",
+    "titleBar.activeForeground": "#000",
+  },
+  "window.title": "Patterns Frontend"
+  
+}
